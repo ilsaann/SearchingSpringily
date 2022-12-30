@@ -1,0 +1,32 @@
+.container {
+    width: 100%;
+    display: flex;
+    flex-direction:column;
+    justify-items: center;
+    margin: 1em;
+}
+
+.container form {
+    width: 100%;
+}
+
+.searchbar {
+    vertical-align: top;
+    height: 5vh;
+    width: 40vw;
+}
+
+.searchbtn {
+    vertical-align: top;
+    height: 5vh;
+    width: 4vw;
+}
+
+
+.resultCard {
+    width: 60%;
+    border-radius: .5em;
+    margin: 2em;
+    padding: 1em;
+    background-color: #9891a3;
+}

@@ -1,0 +1,14 @@
+.header {
+    width: 100%;
+    display:flex;
+    flex-direction: row;
+    vertical-align: top;
+    font-style: unset;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.header h1{
+    margin-left: 40vw;
+    margin-right: 40vw;
+}
+
